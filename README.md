@@ -28,11 +28,20 @@ Para luego terminar insertando los registros del csv a la base de datos.
 
 Ademas,luego terminar agregando la funcionalidad que permita obtener de la base de datos todos los registros de Estudiantes.
 
-![image](https://github.com/user-attachments/assets/ca5d964c-a943-44c0-a464-e360cfda1dce)
+![image](https://github.com/user-attachments/assets/768af3ed-44eb-4c68-ba32-54e1e9f96bf7)
+
+Y luego imprimir los datos y verlos en la consola: 
+
+![image](https://github.com/user-attachments/assets/a230627f-8b50-48ec-ba83-68945d817ab9)
+
+![image](https://github.com/user-attachments/assets/6ab92065-14ef-4936-8b7c-abf9b2dfcd7c)
+
 
 ## Codigo usado en tanto en la extración como en la inserción de los datos: 
 ### Tabla .csv:
 ![image](https://github.com/user-attachments/assets/66d69b24-88d6-4895-aef3-1600ee54d8fb)
+
+
 
 ### Tabla en SQL:
 ```
