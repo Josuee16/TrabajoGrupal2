@@ -7,6 +7,6 @@ Para luego terminar insertando los registros del csv a la base de datos.
 ![image](https://github.com/user-attachments/assets/31eec81d-5393-40d1-9483-ae7cc9185d29)
 
 
-Para luego terminar agregando la funcionalidad que permita obtener de la base de datos todos los registros de Estudiantes.
+Ademas,luego terminar agregando la funcionalidad que permita obtener de la base de datos todos los registros de Estudiantes.
 
 ![image](https://github.com/user-attachments/assets/ca5d964c-a943-44c0-a464-e360cfda1dce)
